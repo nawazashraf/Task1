@@ -46,8 +46,7 @@ The following data cleaning steps were performed using Python and Pandas:
 
 ## 📦 Output
 
-- `vehicle_sales_cleaned.csv` — Final cleaned CSV file
-- `vehicle_sales_cleaned.xlsx` — Cleaned dataset in Excel format (optional)
+- `cleaned_file.xlsx` — Final cleaned CSV file
 
 ---
 
@@ -55,7 +54,7 @@ The following data cleaning steps were performed using Python and Pandas:
 
 - Python
 - Pandas
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 - OpenPyXL (for `.xlsx` export)
 
 ---
